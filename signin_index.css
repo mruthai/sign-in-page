@@ -1,0 +1,156 @@
+
+.container{
+    align-content: center;
+    
+}
+
+.container1{
+    margin-top: 175px;
+    display:flex;
+    justify-content: center;
+    
+
+      
+}
+h1{
+    font-weight: 300;
+    color:#212529;
+
+}
+h5{
+    font-weight:400;
+    margin-bottom:200px;
+}
+h4{
+    margin-top: 30px;
+    font-weight: 200;
+    padding-left: 20px;
+    color:#007bff;
+}
+form{
+    color:#000;
+    
+    border:2px solid #EDEDED;
+    border-radius: 4px;
+    padding-left: 55px;
+    padding-right: 55px;
+    height:370px;
+    
+}
+.label_1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color:#212529;
+    font-size: small;
+    
+    
+}
+.label_2{
+    margin-top: 22px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    font-size: small;
+    
+}
+span{
+    color:#007bff;
+    float: right;
+    margin-right: 5px;
+    
+}
+.password{
+    color:#212529;
+    
+
+}
+.input1{
+    width:375px;
+    height:25px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+.input2{
+    width:375px;
+    height:25px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.button1{
+    background-color: #f7c548;
+    width:385px;
+    height:30px;
+    margin-top: 20px;
+    border:1px solid #b4974f;
+    border-radius: 2px;
+    color:#212529;
+}
+.container2{
+    margin-top: 10px;
+    margin-bottom: -25px;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container3{
+    margin-bottom: 55px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: 300;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+fieldset{
+    border:1px solid 9c9c9c;
+    padding-bottom: 20px;
+    border-left: transparent;
+    border-right:transparent;
+    border-bottom:transparent;
+    text-align:center;
+    color:9c9c9c;
+    width:450px;
+    
+}
+
+.button2{
+    width: 475px;
+    height:30px;
+    text-align:center;
+    font-size: 19px;
+    font-weight: 5;
+    top: 25px;
+    position: relative;
+    
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+li{
+    display: inline;
+    margin: 10px;
+    text-align: center;
+    font-size: 15px;
+    color:#007bff;
+    
+}
+.footer{
+    display:flex;
+    justify-content: center;
+    margin-left: 50px;
+    
+}
+
